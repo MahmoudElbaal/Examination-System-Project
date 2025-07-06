@@ -10,12 +10,12 @@ It serves as a comprehensive guide for all stakeholders involved — from databa
 
 # Scope
 This roadmap covers:
-•  Designing the conceptual and logical data model (ERD)
-•  Creating a fully normalized transactional database using SQL Server
-•  Populating the database with realistic sample data
-•  Building a Data Warehouse using dimensional modeling
-•  Creating an HR-specific Data Mart
-•  Implementing ETL processes using SSIS
+•  Designing the conceptual and logical data model (ERD).
+•  Creating a fully normalized transactional database using SQL Server.
+•  Populating the database with realistic sample data.
+•  Building a Data Warehouse using dimensional modeling.
+•  Creating an HR-specific Data Mart.
+•  Implementing ETL processes using SSIS.
 •  Designing SSRS reports using stored procedures and deploying them in Power BI Desktop.
 •  Creating Power BI dashboards for Student, Instructor, Admin, and HR users with advanced DAX analytics for each.
 •  A Streamlit-based BI chatbot for querying the data warehouse using natural language.
